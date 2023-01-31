@@ -14,7 +14,7 @@
   --news-letter-bg: #041e42;  
 }
 #page-header {
-  background-image: url("img/about/banner.png");
+  background-image: url("../img/about/banner.png");
   background-size: cover;
   background-position: 20%;
   height: 40vh;
@@ -109,7 +109,7 @@
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  background-image: url("img/banner/b14.png");
+  background-image: url("../img/banner/b14.png");
   background-color: var(--news-letter-bg);
   background-repeat: no-repeat;
   background-position: 20% 30%;
